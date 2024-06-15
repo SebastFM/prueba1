@@ -1,2 +1,4 @@
 # prueba1
-prueba de cracion de repositorio
+prueba de creacion de repositorio
+
+print("hola"
